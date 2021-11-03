@@ -9,9 +9,10 @@
  * static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
  * static char *font = "Hack:pixelsize=24";
  * static char *font = "MesloLGS NF:pixelsize=22:antialias=true:autohint=true";
+ * static char *font = "Fira Mona Medium:pixelsize=22:antialias=true:autohint=true";
  *
  */ 
-static char *font = "Fira Mono Medium:pixelsize=22:antialias=true:autohint=true";
+static char *font = "Source Code Pro Medium:pixelsize=22:antialias=true:autohint=true";
 
 static int borderpx = 2;
 
